@@ -4,6 +4,7 @@
   "description": "Custom skill for Amazon Echo.",
   "main": "index.js",
   "dependencies": {
+    "alexa-app-server": "^3.0.0",
     "alexa-sdk": "^1.0.6"
   },
   "devDependencies": {},
