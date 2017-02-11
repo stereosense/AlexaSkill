@@ -20,3 +20,7 @@ Node Plugins in use:
 To start Facebook Events Server:
  $cd node_modules/facebook-events-by-location/
  $node index.js
+
+ - example API call: http://localhost:3000/events?lat=40.710803&lng=-73.964040&distance=100&sort=venue&accessToken=1006558219476497|9O_KoW925DzfKWa8nJjl1xpGo6g
+
+ Where the 'Token='' is our Fb App Token
