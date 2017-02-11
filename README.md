@@ -16,3 +16,7 @@ Facebook App
 Node Plugins in use:
   - alexa-sdk   found at: https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
   - facebook-events-by-location   found at: https://github.com/tobilg/facebook-events-by-location
+
+To start Facebook Events Server:
+ $cd node_modules/facebook-events-by-location/
+ $node index.js
