@@ -1,0 +1,23 @@
+{
+  "name": "alexa",
+  "version": "1.0.0",
+  "description": "Custom skill for Amazon Echo.",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stereosense/AlexaSkill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stereosense/AlexaSkill/issues"
+  },
+  "homepage": "https://github.com/stereosense/AlexaSkill#readme"
+}
